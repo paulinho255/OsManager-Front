@@ -104,6 +104,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "osmanage-frontend"
+    }
+  },
+  "defaultProject": "osmanage-frontend",
+  "cli": {
+    "analytics": "07ff00fb-2459-49e3-9316-4e24de092d0c"
+  }
 }
